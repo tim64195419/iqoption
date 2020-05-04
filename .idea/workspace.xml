@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24d126aa-174a-4afe-af82-578670480a8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/iqoptionapi" />
+  </component>
+  <component name="ProjectId" id="1ZWaDdnrmz62uSLEm3oqxCLM2wL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/iqoptionapi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="iqoption_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Iqoption" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iqoption_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.iqoption_bot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24d126aa-174a-4afe-af82-578670480a8f" name="Default Changelist" comment="" />
+      <created>1584957185925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584957185925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="53" key="#Notifications" timestamp="1584959288090">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="240" y="53" key="#Notifications/0.23.1280.730/-1366.248.1366.745@0.23.1280.730" timestamp="1584959288090" />
+    <state width="1259" height="181" key="GridCell.Tab.0.bottom" timestamp="1584960987210">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="181" key="GridCell.Tab.0.bottom/0.23.1280.730/-1366.248.1366.745@0.23.1280.730" timestamp="1584959654550" />
+    <state width="1259" height="181" key="GridCell.Tab.0.bottom/0.23.1280.777/-1366.248.1366.695@0.23.1280.777" timestamp="1584960987210" />
+    <state width="1154" height="170" key="GridCell.Tab.0.bottom/0.23.1280.777/-1366.248.1366.696@0.23.1280.777" timestamp="1584958683086" />
+    <state width="1154" height="170" key="GridCell.Tab.0.bottom/0.23.1280.777/-1366.248.1366.697@0.23.1280.777" timestamp="1584957642612" />
+    <state width="1259" height="181" key="GridCell.Tab.0.center" timestamp="1584960987209">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="181" key="GridCell.Tab.0.center/0.23.1280.730/-1366.248.1366.745@0.23.1280.730" timestamp="1584959654549" />
+    <state width="1259" height="181" key="GridCell.Tab.0.center/0.23.1280.777/-1366.248.1366.695@0.23.1280.777" timestamp="1584960987209" />
+    <state width="1154" height="170" key="GridCell.Tab.0.center/0.23.1280.777/-1366.248.1366.696@0.23.1280.777" timestamp="1584958683085" />
+    <state width="1154" height="170" key="GridCell.Tab.0.center/0.23.1280.777/-1366.248.1366.697@0.23.1280.777" timestamp="1584957642611" />
+    <state width="1259" height="181" key="GridCell.Tab.0.left" timestamp="1584960987208">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="181" key="GridCell.Tab.0.left/0.23.1280.730/-1366.248.1366.745@0.23.1280.730" timestamp="1584959654548" />
+    <state width="1259" height="181" key="GridCell.Tab.0.left/0.23.1280.777/-1366.248.1366.695@0.23.1280.777" timestamp="1584960987208" />
+    <state width="1154" height="170" key="GridCell.Tab.0.left/0.23.1280.777/-1366.248.1366.696@0.23.1280.777" timestamp="1584958683084" />
+    <state width="1154" height="170" key="GridCell.Tab.0.left/0.23.1280.777/-1366.248.1366.697@0.23.1280.777" timestamp="1584957642611" />
+    <state width="1259" height="181" key="GridCell.Tab.0.right" timestamp="1584960987209">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="181" key="GridCell.Tab.0.right/0.23.1280.730/-1366.248.1366.745@0.23.1280.730" timestamp="1584959654550" />
+    <state width="1259" height="181" key="GridCell.Tab.0.right/0.23.1280.777/-1366.248.1366.695@0.23.1280.777" timestamp="1584960987209" />
+    <state width="1154" height="170" key="GridCell.Tab.0.right/0.23.1280.777/-1366.248.1366.696@0.23.1280.777" timestamp="1584958683085" />
+    <state width="1154" height="170" key="GridCell.Tab.0.right/0.23.1280.777/-1366.248.1366.697@0.23.1280.777" timestamp="1584957642612" />
+    <state x="166" y="23" key="SettingsEditor" timestamp="1584959047644">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="166" y="23" key="SettingsEditor/0.23.1280.730/-1366.248.1366.745@0.23.1280.730" timestamp="1584959047644" />
+    <state x="166" y="23" key="SettingsEditor/0.23.1280.777/-1366.248.1366.697@0.23.1280.777" timestamp="1584957244127" />
+    <state x="317" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1588600577167">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="317" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.736@0.23.1280.736" timestamp="1588600577167" />
+  </component>
+</project>
