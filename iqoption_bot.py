@@ -19,6 +19,7 @@ Max_bet_amount_limit_results = 0
 win_count_results = 0
 loose_count_results = 0
 
+
 print('Login info')
 ID = input('Account: ')
 PW = input('Password: ')

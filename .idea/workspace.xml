@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d126aa-174a-4afe-af82-578670480a8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iqoption_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/iqoption_bot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
