@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24d126aa-174a-4afe-af82-578670480a8f" name="Default Changelist" comment="" />
+    <list default="true" id="24d126aa-174a-4afe-af82-578670480a8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/iqoption_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/iqoption_bot.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/iqoptionapi" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZWaDdnrmz62uSLEm3oqxCLM2wL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

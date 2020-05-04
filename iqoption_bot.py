@@ -14,7 +14,6 @@ choice = {'USDCHF-OTC': 0.8, 'USDCAD': 0.78, 'GBPCHF': 0.8, 'CADCHF': 0.8, 'GBPN
           'CADJPY': 0.8, 'EURCHF': 0.8, 'EURGBP': 0.8, 'AUDCAD': 0.8, 'NZDUSD': 0.8,
           'AUDCAD-OTC': 0.8, 'GBPCAD': 0.8, 'EURJPY': 0.8, 'AUDUSD': 0.77}
 
-
 MAXBET_results = 0
 Max_bet_amount_limit_results = 0
 win_count_results = 0
